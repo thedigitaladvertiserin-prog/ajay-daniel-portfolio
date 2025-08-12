@@ -3,7 +3,7 @@
 Node.js with NPM:
  - download from here [https://nodejs.org/en/download/current](https://nodejs.org/en/download/current)
 
-## Commands
+# Run
 
 ### Step 1: Install dependencies
  - Install dependencies with this command `npm i`
